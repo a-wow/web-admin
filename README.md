@@ -16,8 +16,8 @@ Enter the admin password, then I recommend changing it, the function can be seen
 <br><br>
 If your site uses the language <code>php</code>, then you just need to change the line <code>default_file = index.html </code> to <code>default_file = index.php </code> in the <code>conf.ini</code> file, or directly in the admin panel, after authorization.
 
-<h3 align="center"><img src="1.jpg" alt="documentation" height="500px"></h3>
+<h3 align="center"><img src="1.jpg" alt="documentation" height="200px"></h3>
 
-<h3 align="center"><img src="2.jpg" alt="documentation" height="500px"></h3>
+<h3 align="center"><img src="2.jpg" alt="documentation" height="200px"></h3>
 
-<h3 align="center"><img src="3.jpg" alt="documentation" height="500px"></h3>
+<h3 align="center"><img src="3.jpg" alt="documentation" height="300px"></h3>
